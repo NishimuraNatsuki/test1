@@ -1,0 +1,70 @@
+
+.main{
+    display: flex;
+}
+
+.contentA,.contentB{
+    width: 50%;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+h2{
+    font-size: large;
+    text-align: center;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+h2#new_lines{
+    font-size: xx-large;
+    text-align: center;
+    color:orangered;
+}
+
+.form_conf{
+    text-align:center;
+}
+.form_conf form{
+    display:inline-block;    
+}
+
+.form_conf form input#play{
+    text-size-adjust:auto;
+    font-size: x-large;
+    background-color: white;
+    border-color: orangered;
+    border-width: 3px;
+    width:100px;
+    height: 50px;
+    border-radius: 100vh;
+}
+.form_conf form input#reset{
+    text-size-adjust:auto;
+    font-size: x-large;
+    background-color: white;
+    border-color: orangered;
+    border-width: 3px;
+    width:100px;
+    height:50px;
+    border-radius: 100vh;
+}
+.form_conf form input#voice{
+    text-size-adjust:auto;
+    font-size: x-large;
+    background-color: white;
+    border-color: orangered;
+    border-width: 3px;
+    width:100px;
+    height: 50px;
+    border-radius: 100vh;
+}
+
+
+.img{
+    text-align: center;
+    padding: 20px;
+}
